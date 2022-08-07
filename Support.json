@@ -1,0 +1,141 @@
+{
+ "results": [ 
+   {
+      "sectionHeader": "Personal Records",
+     "type": "Records",
+     "cardsInfo": [{
+       "type": "record",
+       "metaData": {
+         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/hakone_ekiden.png",
+         "text":"Longent Run",
+         "subText":"00:00",
+         "enabled": true
+       }
+       
+     },
+     {
+       "type": "record",
+       "metaData": {
+         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/hakone_ekiden.png",
+         "text":"Highest Elevation",
+         "subText":"2096 ft",
+         "enabled": true
+       }
+     },
+     {
+       "type": "record",
+       "metaData": {
+         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/hakone_ekiden.png",
+         "text":"Fastest 5k",
+         "subText":"00:00",
+         "enabled": true
+       }
+       
+     },
+     {
+       "type": "record",
+       "metaData": {
+         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/hakone_ekiden.png",
+         "text":"10k",
+         "subText":"00:00:00",
+         "enabled": true
+       }
+       
+     },
+     {
+       "type": "record",
+       "metaData": {
+         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/hakone_ekiden.png",
+         "text":"Half Marathon",
+         "subText":"00:00",
+         "enabled": true
+       }
+       
+     },
+     {
+       "type": "record",
+       "metaData": {
+         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/hakone_ekiden.png",
+         "text":"Marathon",
+         "subText":"Not Yet",
+         "enabled": false
+         
+       }
+       
+     }]
+ },
+   {
+      "sectionHeader": "Virtual Races",
+     "type": "Races",
+     "cardsInfo": [{
+       "type": "race",
+       "metaData": {
+         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/hakone_ekiden.png",
+         "text":"Virtual Half Marathon",
+         "subText":"00:00",
+         "enabled": true
+       }
+     },
+     {
+       "type": "race",
+       "metaData": {
+         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/hakone_ekiden.png",
+         "text":"Tokyo-Hakone Ekiden",
+         "subText":"00:00:00",
+         "enabled": true
+       }
+       
+     },
+     {
+       "type": "race",
+       "metaData": {
+         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/hakone_ekiden.png",
+         "text":"Virtual 10k Race",
+         "subText":"00:00:00",
+         "enabled": true
+       }
+       
+     },
+     {
+       "type": "race",
+       "metaData": {
+         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/hakone_ekiden.png",
+         "text":"Hakone Ekiden",
+         "subText":"00:00:00",
+         "enabled": true
+       }
+       
+     },
+     {
+       "type": "race",
+       "metaData": {
+         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/hakone_ekiden.png",
+         "text":"Mizuno Singapore Ekiden 2015",
+         "subText":"00:00:00",
+         "enabled": true
+       }
+       
+     },
+     {
+       "type": "race",
+       "metaData": {
+         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/hakone_ekiden.png",
+         "text":"Virtual 5K Race",
+         "subText":"",
+         "enabled": true
+       }
+       
+     },
+     {
+       "type": "race",
+       "metaData": {
+         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/hakone_ekiden.png",
+         "text":"Virtual Marathon",
+         "subText":"00:00:00",
+         "enabled": true
+       }
+       
+     }]
+ }
+ ]
+}
