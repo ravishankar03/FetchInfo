@@ -6,7 +6,7 @@
      "cardsInfo": [{
        "type": "record",
        "metaData": {
-         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/hakone_ekiden.png",
+         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/personal_records_assets%20(1)/longest_run.png",
          "text":"Longent Run",
          "subText":"00:00",
          "enabled": true
@@ -16,7 +16,7 @@
      {
        "type": "record",
        "metaData": {
-         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/hakone_ekiden.png",
+         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/personal_records_assets%20(1)/highest_elevation.png",
          "text":"Highest Elevation",
          "subText":"2096 ft",
          "enabled": true
@@ -25,7 +25,7 @@
      {
        "type": "record",
        "metaData": {
-         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/hakone_ekiden.png",
+         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/personal_records_assets%20(1)/fastest_5k.png",
          "text":"Fastest 5k",
          "subText":"00:00",
          "enabled": true
@@ -35,7 +35,7 @@
      {
        "type": "record",
        "metaData": {
-         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/hakone_ekiden.png",
+         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/personal_records_assets%20(1)/fastest_10k.png",
          "text":"10k",
          "subText":"00:00:00",
          "enabled": true
@@ -45,7 +45,7 @@
      {
        "type": "record",
        "metaData": {
-         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/hakone_ekiden.png",
+         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/personal_records_assets%20(1)/fastest_half_marathon.png",
          "text":"Half Marathon",
          "subText":"00:00",
          "enabled": true
@@ -55,7 +55,7 @@
      {
        "type": "record",
        "metaData": {
-         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/hakone_ekiden.png",
+         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/personal_records_assets%20(1)/fastest_marathon.png",
          "text":"Marathon",
          "subText":"Not Yet",
          "enabled": false
@@ -70,7 +70,7 @@
      "cardsInfo": [{
        "type": "race",
        "metaData": {
-         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/hakone_ekiden.png",
+         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/virtual_half_marathon_race.png",
          "text":"Virtual Half Marathon",
          "subText":"00:00",
          "enabled": true
@@ -79,7 +79,7 @@
      {
        "type": "race",
        "metaData": {
-         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/hakone_ekiden.png",
+         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/tokyo_kakone_ekiden.png",
          "text":"Tokyo-Hakone Ekiden",
          "subText":"00:00:00",
          "enabled": true
@@ -89,7 +89,7 @@
      {
        "type": "race",
        "metaData": {
-         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/hakone_ekiden.png",
+         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/virtual_10k_race.png",
          "text":"Virtual 10k Race",
          "subText":"00:00:00",
          "enabled": true
@@ -109,7 +109,7 @@
      {
        "type": "race",
        "metaData": {
-         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/hakone_ekiden.png",
+         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/mizuno_singapore_ekiden.png",
          "text":"Mizuno Singapore Ekiden 2015",
          "subText":"00:00:00",
          "enabled": true
@@ -119,7 +119,7 @@
      {
        "type": "race",
        "metaData": {
-         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/hakone_ekiden.png",
+         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/virtual_5k_race.png",
          "text":"Virtual 5K Race",
          "subText":"",
          "enabled": true
@@ -129,7 +129,7 @@
      {
        "type": "race",
        "metaData": {
-         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/hakone_ekiden.png",
+         "imageUrl":"https://raw.githubusercontent.com/ravishankar03/FetchInfo/main/medal_case_assets%20(1)/virtual_races_assets/virtual_marathon_race.png",
          "text":"Virtual Marathon",
          "subText":"00:00:00",
          "enabled": true
